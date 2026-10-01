@@ -154,3 +154,33 @@ button i{
     flex-wrap: wrap;
     gap: 5px;
 }
+
+/* CAMPOS */
+
+.campo{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 12px;
+}
+
+.campo i{
+    font-size: 20px;
+    color: #2563eb
+}
+
+input{
+    padding: 10px;
+    border: 1px solid #bbb;
+    border-radius: 6px;
+    width: 100%;
+    max-width: 400px;
+}
+
+ul{
+    padding-left: 25px;
+}
+
+li{
+    margin-bottom: 8px;
+}
